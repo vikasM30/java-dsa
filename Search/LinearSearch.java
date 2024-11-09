@@ -1,5 +1,6 @@
 package Search;
 
+// O(n)
 public class LinearSearch {
     public static void main(String[] args) {
         
